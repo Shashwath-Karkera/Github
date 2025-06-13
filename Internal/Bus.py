@@ -1,2 +1,1 @@
 print("Good")
-print("Night")
